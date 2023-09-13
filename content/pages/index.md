@@ -76,7 +76,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.stackbit.com/'
   - type: CardsSection
-    title: Cards Section Title
+    title: Another cards section
     subtitle: The section subtitle
     items:
       - type: Card
